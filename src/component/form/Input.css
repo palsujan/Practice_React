@@ -1,0 +1,22 @@
+.formHeader{
+    text-align: center;
+}
+
+.formClass{
+    width: 500px;
+    margin: auto;
+}
+.formClass label{
+    display: block;
+}
+.infutform {
+    width: 100%;
+    padding: 5px;
+    margin: 10px 0;
+    border: 1px solid;
+}
+.formClass button{
+    cursor: pointer;
+    border: 1px solid;
+    padding: 4px;
+}
